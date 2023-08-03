@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+      "@nike/clogs-dispatcher": "^1.3.1"
+    },
+    "devDependencies": {
+      "@nike/dra-shared-code-config": "latest",
+      "aws-sdk": "^2.869.0",
+      "dotenv": "^8.2.0",
+      "lambda-zipper": "^0.4.1"
+    }
+  }
+  
